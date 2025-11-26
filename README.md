@@ -61,7 +61,7 @@
 
 <!-- GitHub Stats Section (Optional - Auto updates) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mansijoshi04&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansijoshi04&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
