@@ -5,7 +5,7 @@
 
   <!-- Fixed Typewriter Animation (Wider container to prevent cutting off) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Architecting+Resilient+Software;Engineering+Team+Lead;Building+Scalable+Web+Systems;Python+%7C+React+%7C+AWS+%7C+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Architecting+Resilient+Software;Building+Scalable+Web+Systems;Python+%7C+React+%7C+AWS+%7C+AI" alt="Typing SVG" />
   </a>
 
   <!-- Social Badges -->
